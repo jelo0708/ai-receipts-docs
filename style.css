@@ -324,9 +324,10 @@ footer {
     }
 
     .features h2 {
-        font-size: 1.5rem; /* Reduced from 2rem */
+        font-size: 1rem; /* Matched to tagline size */
         letter-spacing: 1px;
         margin-bottom: 30px;
+        text-transform: none; /* Optional: Makes it feel more like the tagline style */
     }
 
     /* Hide breaks in headings on mobile */
